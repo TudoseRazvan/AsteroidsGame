@@ -1,6 +1,7 @@
 # Joc Asteroids  
 
 Un joc inspirat de clasicul **Asteroids** creat utilizând tehnologia web modernă, cu suport pentru control prin tastatură, touchscreen și multe funcționalități captivante.  
+*Jocul este conceput momentan pentru a fi jucat pe calculator / ecrane de dimensiuni medii si mari*.
 
 ## Puteti testa jocul la adresa: 
 **https://asteroids-game-opal.vercel.app/**
