@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  canvas {
+    display: block;
+    border: 2px solid #fff;
+  }
+  
+  #highScoresContainer {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+  }
+  
+  #highScoresContainer h2 {
+    margin: 0;
+    font-size: 1.5em;
+  }
+  
+  #highScoresList {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 10px;
+  }
+  
+  #highScoresList li {
+    font-size: 1.2em;
+    margin-bottom: 5px;
+  }
+  
