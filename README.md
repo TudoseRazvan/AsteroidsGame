@@ -38,7 +38,7 @@ Acest proiect este o implementare modernă a jocului Asteroids, utilizând `<can
   - Jocul poate fi controlat prin touchscreen pentru o experiență intuitivă pe dispozitive mobile.  
 
 - **Salvarea scorurilor:**  
-  - Cele mai bune 5 scoruri și numele jucătorilor sunt salvate utilizând **Web Storage API** sau un API similar.  
+  - Cele mai bune 5 scoruri și numele jucătorilor sunt salvate utilizând **Web Storage API**.
 
 ## Tehnologii utilizate  
 - HTML5 `<canvas>` și `<svg>` pentru grafică.  
