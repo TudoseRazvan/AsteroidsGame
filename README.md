@@ -2,6 +2,9 @@
 
 Un joc inspirat de clasicul **Asteroids** creat utilizând tehnologia web modernă, cu suport pentru control prin tastatură, touchscreen și multe funcționalități captivante.  
 
+## Puteti testa jocul la adresa: 
+**https://asteroids-game-opal.vercel.app/**
+
 ## Descriere  
 Acest proiect este o implementare modernă a jocului Asteroids, utilizând `<canvas>` sau `<svg>` pentru randare grafică. Scopul jocului este de a controla o navă spațială, de a distruge asteroizii și de a obține cel mai mare scor posibil, evitând în același timp coliziunea cu asteroizii.  
 
